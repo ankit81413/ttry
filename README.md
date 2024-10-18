@@ -41,14 +41,14 @@ To run this project locally, follow these steps:
 ## HOW TO USE
    - After runnung main.py
      a window will appaer like this
-     <img src="Screenshot%20(105).png" alt="CHOOSE MODE.HTML" width="70%">
+     <img src="https://ankit81413.github.io/ttry/Screenshot%20(105).png" alt="CHOOSE MODE.HTML" width="70%">
    - Click Mass Production - here you can mass produce the previously saved wallpapers data
      A new window will appear
-     <img src="Screenshot%20(105).png" alt="CHOOSE MODE.HTML" width="70%">
+     <img src="https://ankit81413.github.io/ttry/Screenshot%20(104).png" alt="CHOOSE MODE.HTML" width="70%">
    - Now choose the Depth map and the coloured image you want to convert into paralax wallpaper(**NOTE** this is necessary both depthmap and coloured image should be present in the "\web\wallpapers\"
    - Now press the Load Images button
    - wait for sometime and the wallpaper will appear with paralax effect
-     <img src="Screenshot%20(105).png" alt="CHOOSE MODE.HTML" width="70%">
+     <img src="https://ankit81413.github.io/ttry/Screenshot%20(106).png" alt="CHOOSE MODE.HTML" width="70%">
    - now you can play with the different controls available
    - Once satisfied clikk the save button(you can follow the steps upto here and save multiple wallpapers)
    - Now click Mass Production button to start the process and with for arould 15 minutes or 1 wallpaper (more it depends on the quality of the wallpaper)
