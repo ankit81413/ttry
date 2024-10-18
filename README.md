@@ -25,7 +25,17 @@ To run this project locally, follow these steps:
    git clone https://github.com/yourusername/3d-wallpaper-builder.git
 2. Navigate to the project directory:
    ```bash
-   git clone https://github.com/yourusername/3d-wallpaper-builder.git
-3.Install the required dependencies (if applicable):
-   ```bash
-   git clone https://github.com/yourusername/3d-wallpaper-builder.git
+   cd 3d-wallpaper-builder
+3. Install the following libraries:
+   1. EEl
+      ```bash
+      pip install eel
+   2. CV2
+      ```bash
+      pip install opencv-python
+4. Change some paths in main.py:
+   - I was using this in at this path
+      ```bash
+      C:\Users\Ankit\Desktop\bulk eel
+   - So you can arrange it according to the path in your PC
+   
