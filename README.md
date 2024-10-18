@@ -31,8 +31,8 @@ If you want to run the website locally, follow these steps:
    cd gamescreen
 3. **Open the project:** Open index.html in your browser or run a local development server to explore the website.
 
-   ###Technologies Used###
-   -HTML: For website structure.
-   -CSS: For styling and design.
-   -JavaScript: For interactive features.
-   -GitHub Pages: For hosting the website online.
+### Technologies Used
+-HTML: For website structure.
+-CSS: For styling and design.
+-JavaScript: For interactive features.
+-GitHub Pages: For hosting the website online.
