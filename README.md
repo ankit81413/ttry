@@ -42,6 +42,15 @@ To run this project locally, follow these steps:
    - After runnung main.py
      a window will appaer like this
      <img src="Screenshot%20(105).png" alt="CHOOSE MODE.HTML" width="70%">
+   - Click Mass Production - here you can mass produce the previously saved wallpapers data
+     A new window will appear
+     <img src="Screenshot%20(105).png" alt="CHOOSE MODE.HTML" width="70%">
+   - Now choose the Depth map and the coloured image you want to convert into paralax wallpaper(**NOTE** this is necessary both depthmap and coloured image should be present in the "\web\wallpapers\"
+   - Now press the Load Images button
+   - wait for sometime and the wallpaper will appear with paralax effect
+     <img src="Screenshot%20(105).png" alt="CHOOSE MODE.HTML" width="70%">
+   - now you can play with the different controls available
    - 
+     
 ## Contributing
    If you would like to contribute to 3D Wallpaper Builder, feel free to fork the repository and submit a pull request with improvements or new features.
