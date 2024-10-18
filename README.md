@@ -32,9 +32,13 @@ If you want to run the website locally, follow these steps:
 3. **Open the project:** Open index.html in your browser or run a local development server to explore the website.
 
 ### Technologies Used
-- Item 1
-- Item 2
-  - Sub-item 1
-  - Sub-item 2
-- Item 3
+- HTML
+- CSS
+- JS
+- DROPBOX - for hosting large files
+- GITHUB PAGES - for hosting the website(codes of website)
+  ## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 
