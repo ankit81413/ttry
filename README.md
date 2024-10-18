@@ -32,7 +32,9 @@ If you want to run the website locally, follow these steps:
 3. **Open the project:** Open index.html in your browser or run a local development server to explore the website.
 
 ### Technologies Used
--HTML: For website structure.
--CSS: For styling and design.
--JavaScript: For interactive features.
--GitHub Pages: For hosting the website online.
+- Item 1
+- Item 2
+  - Sub-item 1
+  - Sub-item 2
+- Item 3
+
