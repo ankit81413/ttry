@@ -29,4 +29,3 @@ To run this project locally, follow these steps:
 3.Install the required dependencies (if applicable):
    ```bash
    git clone https://github.com/yourusername/3d-wallpaper-builder.git
-3.Install the required dependencies (if applicable):
