@@ -54,11 +54,8 @@ To run this project locally, follow these steps:
    - Now click Mass Production button to start the process and with for arould 15 minutes or 1 wallpaper (more it depends on the quality of the wallpaper)
 
 ## EXAMPLES OF SOME VIDEO OUTPUTS 
-   [Luffy Swimming In The Pirates Paradise - One Piece.mp4](https://ankit81413.github.io/ttry/wapplapers%20examples/Luffy%20Swimming%20In%20The%20Pirates%20Paradise%20-%20One%20Piece.mp4)
-   [Luffy Swimming In The Pirates Paradise - One Piece.mp4](https://ankit81413.github.io/ttry/wapplapers%20examples/Portgas%20D.%20Ace%20-%20Fire%20and%20Freedom%20-%20One%20Piece.mp4)
+   [CLICK HERE TO VIEW THE OUTPUT FILES](https://ankit81413.github.io/ttry/wapplapers%20examples/)
 
-   **More examples in this folder**
-   
    
 
      
