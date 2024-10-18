@@ -50,7 +50,8 @@ To run this project locally, follow these steps:
    - wait for sometime and the wallpaper will appear with paralax effect
      <img src="Screenshot%20(105).png" alt="CHOOSE MODE.HTML" width="70%">
    - now you can play with the different controls available
-   - 
+   - Once satisfied clikk the save button(you can follow the steps upto here and save multiple wallpapers)
+   - Now click Mass Production button to start the process and with for arould 15 minutes or 1 wallpaper (more it depends on the quality of the wallpaper)
      
 ## Contributing
    If you would like to contribute to 3D Wallpaper Builder, feel free to fork the repository and submit a pull request with improvements or new features.
