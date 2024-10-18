@@ -54,7 +54,7 @@ To run this project locally, follow these steps:
    - Now click Mass Production button to start the process and with for arould 15 minutes or 1 wallpaper (more it depends on the quality of the wallpaper)
 
 ## EXAMPLES OF SOME VIDEO OUTPUTS 
-   <video width="100%" controls>
+<video width="100%" controls>
   <source src="https://ankit81413.github.io/ttry/wapplapers%20examples/Portgas%20D.%20Ace%20-%20Fire%20and%20Freedom%20-%20One%20Piece.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
