@@ -37,7 +37,7 @@ If you want to run the website locally, follow these steps:
 - JS
 - DROPBOX - for hosting large files
 - GITHUB PAGES - for hosting the website(codes of website)
-  ## License
+## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
