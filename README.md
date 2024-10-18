@@ -1,44 +1,32 @@
-# GameScreen
+# 3D Wallpaper Builder
 
-**GameScreen** is a website that provides users with a collection of high-quality wallpapers. Users can view, save, or download wallpapers for free.
+**3D Wallpaper Builder** is a program that creates stunning parallax wallpapers. By using a depth map, this tool calculates depth, generates a 3D model, and renders it in motion, resulting in captivating 3D parallax wallpapers.
 
 ## Features
 
-- **High-Quality Wallpapers**: Browse a variety of stunning wallpapers in high resolution.
-- **View and Save**: Users can view wallpapers and save them for future access.
-- **Free Downloads**: All wallpapers are available for free download in high quality.
+- **Parallax Effect**: Create dynamic wallpapers with a parallax effect.
+- **Depth Map Utilization**: Uses depth maps to calculate depth for accurate 3D rendering.
+- **3D Model Generation**: Generates a 3D model based on the selected image and its depth map.
+- **Easy to Use**: Simply run the program and select your image along with its depth map.
 
 ## How It Works
 
-1. **Browse Wallpapers**: Explore a range of categories and find wallpapers that suit your style.
-2. **Save Wallpapers**: Save wallpapers you like for easy future access.
-3. **Download for Free**: Download your favorite wallpapers in high resolution for free.
+1. **Run the Program**: Start the application.
+2. **Select Image and Depth Map**: Choose the image you want to convert and its corresponding depth map.
+3. **Generate 3D Model**: The program will calculate depth and generate a 3D model.
+4. **Render in Motion**: The 3D model will be rendered in motion, creating a stunning parallax wallpaper.
 
-## Getting Started
+## Installation
 
-You can view the website directly by visiting:  
-[**GameScreen**](https://ankit81413.github.io/GameScreen/)
+To run this project locally, follow these steps:
 
-### Running Locally
-
-If you want to run the website locally, follow these steps:
-
-1. **Clone the repository**:
+1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/gamescreen.git
-2. **Navigate to the project folder:**
+   git clone https://github.com/yourusername/3d-wallpaper-builder.git
+2. Navigate to the project directory:
    ```bash
-   cd gamescreen
-3. **Open the project:** Open index.html in your browser or run a local development server to explore the website.
-
-### Technologies Used
-- HTML
-- CSS
-- JS
-- DROPBOX - for hosting large files
-- GITHUB PAGES - for hosting the website(codes of website)
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-
+   git clone https://github.com/yourusername/3d-wallpaper-builder.git
+3.Install the required dependencies (if applicable):
+   ```bash
+   git clone https://github.com/yourusername/3d-wallpaper-builder.git
+3.Install the required dependencies (if applicable):
