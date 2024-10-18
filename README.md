@@ -54,7 +54,8 @@ To run this project locally, follow these steps:
    - Now click Mass Production button to start the process and with for arould 15 minutes or 1 wallpaper (more it depends on the quality of the wallpaper)
 
 ## EXAMPLES OF SOME VIDEO OUTPUTS 
-   [![Watch the video](https://camo.githubusercontent.com/4e38f5354716caee5ea6a40e499a4ff29440624d3530ae454f31afdec4cc9451/68747470733a2f2f616e6b697438313431332e6769746875622e696f2f747472792f53637265656e73686f7425323028313036292e706e67)]([https://raw.githubusercontent.com/username/repository/branch/path/to/video.mp4](https://ankit81413.github.io/ttry/wapplapers%20examples/Luffy%20Swimming%20In%20The%20Pirates%20Paradise%20-%20One%20Piece.mp4))
+   [Watch the video here](https://ankit81413.github.io/ttry/wapplapers%20examples/Luffy%20Swimming%20In%20The%20Pirates%20Paradise%20-%20One%20Piece.mp4)
+
      
 ## Contributing
    If you would like to contribute to 3D Wallpaper Builder, feel free to fork the repository and submit a pull request with improvements or new features.
