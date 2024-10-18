@@ -41,7 +41,7 @@ To run this project locally, follow these steps:
 ## HOW TO USE
    - After runnung main.py
      a window will appaer like this
-     [MY IMAGE](Screenshot (105).png)
+     ![Alt text](Screenshot%20(105).png)
    - 
 ## Contributing
    If you would like to contribute to 3D Wallpaper Builder, feel free to fork the repository and submit a pull request with improvements or new features.
